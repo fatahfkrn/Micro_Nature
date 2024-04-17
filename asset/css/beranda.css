@@ -1,0 +1,973 @@
+.beranda {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.beranda .beranda {
+    background: #BFDDBF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 44px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .navbar-logo-left {
+    border-bottom: 1px solid var(--f-2-f-4-f-81, #DEDEDE);
+    background: #FFFFFF;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 132.3px 8px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.beranda .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.beranda .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 514.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .button {
+    border-radius: 50px;
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.beranda .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--e-261, #232E26);
+}
+.nav-link {
+    text-decoration: none;
+    color: #000000;
+}
+
+.beranda .navbar-link {
+    border-radius: 50px;
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 7.8px 8px 12px;
+    box-sizing: border-box;
+}
+
+.beranda .beranda-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+
+}
+
+.beranda .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.beranda .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.beranda .navbar-link-2 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.beranda .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.beranda .navbar-link-3 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.beranda .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.beranda .frame-1000001323 {
+    margin: 0 68.5px 0 40.5px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .frame-1000001314 {
+    margin: 0 40px 108px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.beranda .group-10022 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: url('../img/image9.png') 70% / cover no-repeat;
+    position: relative;
+    margin-bottom: 77px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0 16.7px 15.4px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.beranda .rectangle-4427 {
+    background: #035C2E;
+    position: absolute;
+    left: 0px;
+    top: 20px;
+    width: 140.3px;
+    height: 45px;
+}
+
+.beranda .kebakaran-hutan-total-luas-lahan-terbakar-mencapai-2180-hektar {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+.beranda .news {
+    position: relative;
+    margin: 0 50px 375px 10.6px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--poppins-31-px-bold-font-family, 'Poppins');
+    font-weight: var(--poppins-31-px-bold-font-weight, 700);
+    font-size: var(--poppins-31-px-bold-font-size, 31px);
+    color: #FFFFFF;
+    z-index: 10;
+}
+
+.beranda .frame-1000001313 {
+    margin: 0 5.8px 0 5.5px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .artikel-populer {
+    margin-bottom: 28px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 31px;
+    color: #000000;
+}
+
+.beranda .frame-1000001312 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .frame-10000013121 {
+    margin-bottom: 45px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .image-10 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: url('../img/image10.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 354px;
+    height: 224px;
+}
+
+.beranda .reboisasi-langkah-penting-untuk-mengatasi-kerusakan-hutan-tanggal-13-maret-2024-dalam-upaya-untuk-mengatasi-kerusakan-hutan-yang-semakin-parah-lihat-selengkapnya {
+    margin: 15.1px 0 45.1px 0;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.reboisasi-langkah-penting-untuk-mengatasi-kerusakan-hutan-tanggal-13-maret-2024-dalam-upaya-untuk-mengatasi-kerusakan-hutan-yang-semakin-parah-lihat-selengkapnya {
+    font-family: 'Lato';
+    width: 60%;
+}
+
+.reboisasi-langkah-penting-untuk-mengatasi-kerusakan-hutan-tanggal-13-maret-2024-dalam-upaya-untuk-mengatasi-kerusakan-hutan-yang-semakin-parah-lihat-selengkapnya-sub12 {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.reboisasi-langkah-penting-untuk-mengatasi-kerusakan-hutan-tanggal-13-maret-2024-dalam-upaya-untuk-mengatasi-kerusakan-hutan-yang-semakin-parah-lihat-selengkapnya-sub13 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.beranda .frame-1000001310 {
+    margin-bottom: 45px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .image-11 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: url('../img/image11.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 354px;
+    height: 224px;
+}
+
+.beranda .penebangan-liar-ancaman-bagi-lingkungan-dan-upaya-penanggulanganya-penebangan-liar-atau-yang-dikenal-juga-sebagai-illegal-logging-merupakan-kegiatan-yang-lihat-selengkapnya {
+    margin: 15.6px 0 21.6px 0;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.penebangan-liar-ancaman-bagi-lingkungan-dan-upaya-penanggulanganya-penebangan-liar-atau-yang-dikenal-juga-sebagai-illegal-logging-merupakan-kegiatan-yang-lihat-selengkapnya {
+    font-family: 'Lato';
+    width: 60%;
+}
+
+.penebangan-liar-ancaman-bagi-lingkungan-dan-upaya-penanggulanganya-penebangan-liar-atau-yang-dikenal-juga-sebagai-illegal-logging-merupakan-kegiatan-yang-lihat-selengkapnya-sub12 {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.penebangan-liar-ancaman-bagi-lingkungan-dan-upaya-penanggulanganya-penebangan-liar-atau-yang-dikenal-juga-sebagai-illegal-logging-merupakan-kegiatan-yang-lihat-selengkapnya-sub14 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.beranda .frame-1000001311 {
+    margin-bottom: 45px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .image-14 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: url('../img/image14.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 354px;
+    height: 224px;
+}
+
+.destinasi-wisata-untuk-pecinta-alam-bagi-para-pencinta-alam-berkeliling-dunia-untuk-mengeksplorasi-keindahan-alam-adalah-lihat-selengkapnya{
+    font-family: 'Lato';
+    width: 60%;
+}
+
+.judul-destinasi {
+    margin: 15.5px 0 45.5px 0;
+    text-align: justify;
+    font-family: 'Lato';
+    font-size: 20px;
+}
+
+.beranda .isi-destinasi {
+    margin: 15.5px 0 45.5px 0;
+    text-align: justify;
+    font-family: 'Lato';
+    font-size: 16px;
+}
+
+.lihat-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.333;
+    color: #5E5E5E;
+}
+
+/* .destinasi-wisata-untuk-pecinta-alam-bagi-para-pencinta-alam-berkeliling-dunia-untuk-mengeksplorasi-keindahan-alam-adalah-lihat-selengkapnya-sub12 {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.destinasi-wisata-untuk-pecinta-alam-bagi-para-pencinta-alam-berkeliling-dunia-untuk-mengeksplorasi-keindahan-alam-adalah-lihat-selengkapnya-sub14 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333; 
+} */
+
+.beranda .frame-1000001322 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    box-sizing: border-box;
+}
+
+.beranda .frame-1000001321 {
+    position: relative;
+    margin-bottom: 84px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .group-10027 {
+    border-radius: 10px;
+    background: url('../assets/images/rectangle4446.jpeg') 50% / cover no-repeat;
+    position: relative;
+    margin: 0 19px 77px 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 35px 33px 17px 33px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .frame-1000001239 {
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .group-10023 {
+    position: relative;
+    margin-right: 23px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 17px;
+    width: 222px;
+    height: 155px;
+    box-sizing: border-box;
+}
+
+.beranda .image-8 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    background: url('../assets/images/image8.png') 50% / cover no-repeat;
+    position: relative;
+    width: 222px;
+    height: 138px;
+}
+
+.beranda .rectangle-44271 {
+    background: #035C2E;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 13px;
+    height: 33px;
+}
+
+.beranda .rafflesia-arnoldi-keajaiban-bunga-raksasa-yang-langka-di-indonesia {
+    position: absolute;
+    left: 5px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+.beranda .group-10024 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    background: url('../assets/images/image4.png') 50% / cover no-repeat, url('../assets/images/image4.png') 50% / cover no-repeat, url('../assets/images/image4.png') 50% / cover no-repeat;
+    position: relative;
+    margin-bottom: 13px;
+    padding: 110px 6px 2px 6px;
+    width: 222px;
+    box-sizing: border-box;
+}
+
+.beranda .rectangle-4428 {
+    background: #035C2E;
+    position: absolute;
+    left: 50%;
+    top: 109px;
+    translate: -50% 0;
+    width: 222px;
+    height: 33px;
+}
+
+.beranda .badak-satwa-yang-paling-terancam-punah-di-dunia {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+.beranda .group-10025 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    background: url('../assets/images/image81.png') 50% / cover no-repeat;
+    position: relative;
+    margin: 0 23px 1px 0;
+    padding: 108.6px 5px 3.4px 5px;
+    width: 222px;
+    box-sizing: border-box;
+}
+
+.beranda .rectangle-44272 {
+    background: #035C2E;
+    position: absolute;
+    left: 50%;
+    top: 107.5px;
+    translate: -50% 0;
+    width: 222px;
+    height: 34.5px;
+}
+
+.beranda .menikmati-keindahan-air-terjun-di-indonesia-destinasi-wisata-yang {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+.beranda .group-10026 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 109px;
+    box-sizing: border-box;
+}
+
+.beranda .image-5 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    background: url('../assets/images/image5.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    height: 142px;
+}
+
+.beranda .hari-orang-utan-sedunia-mengungkap-ancaman-dan-keunikan-primata-ini {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+.beranda .slider {
+    border-radius: 10px;
+    margin-left: 9px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+    width: 40px;
+    box-sizing: border-box;
+}
+
+.beranda .frame-1000001320 {
+    margin: 0 17px 77px 17px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .line-10 {
+    background: #000000;
+    margin-bottom: 53px;
+    width: 537px;
+    height: 1px;
+}
+
+.beranda .frame-1000001316 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .tag-populer {
+    margin-bottom: 14px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 30px;
+    color: var(--ffffff-1, #000000);
+}
+
+.beranda .frame-1000001315 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .hewan-langka {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+}
+
+.beranda .terancam-punah {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+}
+
+.beranda .konservasi {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+}
+
+.beranda .komunitas-konservasi {
+    margin-bottom: 7px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+}
+
+.beranda .hutangundul {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+}
+
+.beranda .line-11 {
+    background: #000000;
+    margin: 0 17px 76px 17px;
+    width: 537px;
+    height: 1px;
+}
+
+.beranda .frame-1000001319 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .artikel-terbaru {
+    margin-bottom: 37px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 30px;
+    color: var(--ffffff-1, #000000);
+}
+
+.beranda .frame-1000001318 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 25.1px 20px 20px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .frame-1000001171 {
+    margin: 0 3.8px 40px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .image-17 {
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: url('../img/image17.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 100%;
+    height: 80%;
+}
+
+.beranda .perubahan-iklim-dalam-upaya-untuk-mengatasi-kerusakan-lihat-selengkapnya {
+    margin-bottom: 78px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.perubahan-iklim-dalam-upaya-untuk-mengatasi-kerusakan-lihat-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    color: #5E5E5E;
+}
+
+.perubahan-iklim-dalam-upaya-untuk-mengatasi-kerusakan-lihat-selengkapnya-sub12 {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.perubahan-iklim-dalam-upaya-untuk-mengatasi-kerusakan-lihat-selengkapnya-sub13 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.judul-artikel {
+    text-align: justify;
+    font-family: 'Lato';
+    font-size: 20px;
+}
+
+.isi-artikel {
+    margin: 15.5px 0 45.5px 0;
+    text-align: justify;
+    font-family: 'Lato';
+    font-size: 20px;
+}
+
+.lihat-selengkapnya-artikel {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.333;
+    color: #5E5E5E;
+}
+
+.beranda .frame-1000001317 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .image-18 {
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: url('../img/image18.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 100%;
+    height: 80%;
+}
+
+.beranda .mengatasi-kerusakan-hutan-dalam-upaya-untuk-mengatasi-kerusakan-hutan-yang-semakin-parah-lihat-selengkapnya {
+    margin-bottom: 54px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.mengatasi-kerusakan-hutan-dalam-upaya-untuk-mengatasi-kerusakan-hutan-yang-semakin-parah-lihat-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    color: #5E5E5E;
+}
+
+.mengatasi-kerusakan-hutan-dalam-upaya-untuk-mengatasi-kerusakan-hutan-yang-semakin-parah-lihat-selengkapnya-sub12 {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.mengatasi-kerusakan-hutan-dalam-upaya-untuk-mengatasi-kerusakan-hutan-yang-semakin-parah-lihat-selengkapnya-sub13 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.beranda .frame-1000001233 {
+    position: absolute;
+    right: 0px;
+    bottom: 35px;
+    width: 105px;
+    height: 106px;
+}
+
+.beranda .frame-1000001234 {
+    margin: 0 26.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.beranda .forum {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.beranda .footer {
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.beranda .container {
+    background: #035C2E;
+    position: relative;
+    align-self: flex-start;
+    padding: 6px 10.9px 8.6px 10.9px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .container-1 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .container-2 {
+    background: #035C2E;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2px 15px 2px 6px;
+    box-sizing: border-box;
+}
+
+.beranda .container-3 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.beranda .image-1 {
+    background: url('../img/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.beranda .ellipse-2 {
+    border-radius: 4px;
+    background: #16814E;
+    width: 8px;
+    height: 8px;
+}
+
+.beranda .ellipse-3 {
+    border-radius: 4px;
+    background: #A0C546;
+    width: 8px;
+    height: 8px;
+}
+
+.beranda .ellipse-4 {
+    border-radius: 4px;
+    background: var(--secondary-gray, #999FAA);
+    width: 8px;
+    height: 8px;
+}
+
+.beranda .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.beranda .logo-1 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.beranda .image-logo {
+    background: url('../img/Logo.png') 50% / cover no-repeat;
+    width: 500px;
+    height: 200px;
+}
+.beranda .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.beranda .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.beranda .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.beranda .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}

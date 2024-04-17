@@ -1,0 +1,434 @@
+.daftar-kategori {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .navbar-logo-left {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 140.3px 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 531.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .navbar-link {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar-kategori .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar-kategori .navbar-link-2 {
+    border-radius: 50px;
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 18.5px 8px 18px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--f-2-f-4-f-8, #F2F4F8);
+}
+
+.daftar-kategori .navbar-link-3 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar-kategori .button {
+    border-radius: 50px;
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ffffff-1, #000000);
+}
+
+.daftar-kategori .hero-heading-right {
+    background: var(--bfddbf, #BFDDBF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 56.5px 39.5px 60px 39.5px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .daftar-kategori-1 {
+    margin: 0 23.4px 40.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 0.813;
+    color: var(--e-261, #232E26);
+}
+
+.daftar-kategori .frame-1000001176 {
+    border-radius: 12px 12px 0 0;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 0 28px 0;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .hero-heading-right-1 {
+    border-radius: 12px 12px 0 0;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+    padding: 64px 39.5px 58px 39.5px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .frame-1000001168 {
+    border-radius: 12px;
+    background: var(--f-2-f-4-f-81, #DEDEDE);
+    display: flex;
+    flex-direction: row;
+    padding: 24.5px 0 24.5px 20px;
+    width: 777px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .search-icon {
+    margin: 0.5px 20.5px 1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 23.5px;
+    height: 24.5px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .hewan {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: var(--ffffff-1, #000000);
+}
+
+.daftar-kategori .list {
+    border-radius: 12px;
+    border: 1px solid var(--f-2-f-4-f-81, #DEDEDE);
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 23.5px 13px 23.5px 19px;
+    width: 339px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .frame-1000001170 {
+    border-radius: 12px;
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 24.5px 0.3px 24.5px 0;
+    width: 136px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .cari {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: var(--ffffff-2, #F2F4F8);
+}
+
+.daftar-kategori .frame-1000001175 {
+    margin: 0 74.5px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 75px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .frame-1000001172 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .rectangle-3523 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle3523.png') 50% / cover no-repeat;
+    margin-bottom: 20px;
+    width: 354px;
+    height: 236px;
+}
+
+.daftar-kategori .hewan-1 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 1.04;
+    color: var(--ffffff-1, #000000);
+}
+
+.daftar-kategori .frame-1000001173 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .rectangle-35231 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle35231.png') 50% / cover no-repeat;
+    margin-bottom: 20px;
+    width: 354px;
+    height: 236px;
+}
+
+.daftar-kategori .tumbuhan {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 1.04;
+    color: var(--ffffff-1, #000000);
+}
+
+.daftar-kategori .frame-1000001174 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .rectangle-3535 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle3535.png') 50% / cover no-repeat;
+    margin-bottom: 20px;
+    width: 354px;
+    height: 236px;
+}
+
+.daftar-kategori .wilayah {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 1.04;
+    color: var(--ffffff-1, #000000);
+}
+
+.daftar-kategori .footer {
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .image-1 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.daftar-kategori .search-icon-1 {
+    width: 23.5px;
+    height: 24.5px;
+}
+
+.daftar-kategori .badak {
+    margin-right: 13px;
+    width: 274px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: var(--ffffff-1, #000000);
+}
+
+.daftar-kategori .caret {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .caret-1 {
+    width: 18px;
+    height: 6px;
+}
+
+.daftar-kategori .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .logo-1 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .image-11 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.daftar-kategori .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.daftar-kategori .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.daftar-kategori .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.daftar-kategori .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}

@@ -1,0 +1,871 @@
+.forum {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.forum .navbar-logo-left {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 140.3px 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.forum .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.forum .navbar-menu {
+    margin: 15px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 519.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.forum .navbar-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.forum .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.forum .navbar-link-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.forum .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.forum .navbar-link-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.forum .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.forum .navbar-link-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.forum .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.forum .navbar-link-4 {
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.forum .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .hero-heading-right {
+    background: var(--bfddbf, #BFDDBF);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 67px 39.5px 87px 39.5px;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001256 {
+    border-radius: 12px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001255 {
+    margin-bottom: 29px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001254 {
+    margin-bottom: 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1361px;
+    box-sizing: border-box;
+}
+
+.forum .tulis-topik-forum-baru {
+    margin: 0 13.3px 12px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .frame-1000001177 {
+    border-radius: 12px 12px 0 0;
+    background: #FFFFFF;
+    position: relative;
+    width: 1361px;
+    height: 190px;
+}
+
+.forum .hero-heading-right-1 {
+    border-radius: 12px 12px 0 0;
+    background: #FFFFFF;
+    position: absolute;
+    left: 0px;
+    top: -3.5px;
+    right: 0px;
+    bottom: -3.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 64px 39.5px 58px 39.5px;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001168 {
+    border-radius: 12px;
+    background: var(--f-2-f-4-f-81, #DEDEDE);
+    margin-right: 15px;
+    display: flex;
+    flex-direction: row;
+    padding: 24.5px 0 24.5px 20px;
+    flex-grow: 1;
+    flex-basis: 777px;
+    box-sizing: border-box;
+}
+
+.forum .search-icon {
+    margin: 0.5px 20.5px 1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 23.5px;
+    height: 24.5px;
+    box-sizing: border-box;
+}
+
+.forum .perizinan {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .list {
+    border-radius: 12px;
+    border: 1px solid var(--f-2-f-4-f-81, #DEDEDE);
+    background: #FFFFFF;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 23.5px 13px 23.5px 19px;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 339px;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001170 {
+    border-radius: 12px;
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 24.5px 0.3px 24.5px 0;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 136px;
+    box-sizing: border-box;
+}
+
+.forum .cari {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: var(--ffffff-2, #F2F4F8);
+}
+
+.forum .frame-1000001253 {
+    margin: 0 49.5px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 36.9px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.forum .frame-10000012531 {
+    border-radius: 12px;
+    background: #BFDDBF;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 0 20px;
+    box-sizing: border-box;
+}
+
+.forum .rectangle-3523 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle3523.png') 50% / cover no-repeat;
+    margin-bottom: 14px;
+    width: 354px;
+    height: 236px;
+}
+
+.forum .frame-1000001248 {
+    position: relative;
+    margin: 0 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+}
+
+.forum .poppins-49-px-bold {
+    overflow-wrap: break-word;
+    font-family: var(--poppins-25-px-regular-font-family, 'Poppins');
+    font-weight: var(--poppins-25-px-regular-font-weight, 400);
+    font-size: var(--poppins-25-px-regular-font-size, 25px);
+    color: #000000;
+}
+
+.poppins-49-px-bold-sub2 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.poppins-49-px-bold-sub30 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.333;
+    color: var(--ffffff-1, #000000);
+}
+
+.poppins-49-px-bold-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.333;
+}
+
+.forum .frame-1000001247 {
+    position: absolute;
+    left: 0px;
+    bottom: 35px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001246 {
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.forum .min {
+    margin-right: 4.3px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 2.167;
+    color: var(--dedede, #5E5E5E);
+}
+
+.forum .ellipse-193 {
+    border-radius: 1px;
+    background: var(--dedede, #5E5E5E);
+    margin: 13.5px 0 10.5px 0;
+    width: 2px;
+    height: 2px;
+}
+
+.forum .august-2024 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 2.167;
+    color: var(--dedede, #5E5E5E);
+}
+
+.forum .frame-1000001251 {
+    border-radius: 12px;
+    background: #BFDDBF;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 0 20px;
+    box-sizing: border-box;
+}
+
+.forum .image-13 {
+    border-radius: 12px;
+    background: url('../assets/images/image13.png') 50% / cover no-repeat;
+    margin-bottom: 14px;
+    width: 360.1px;
+    height: 236px;
+}
+
+.forum .frame-10000012481 {
+    position: relative;
+    margin: 0 13.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+}
+
+.forum .poppins-49-px-bold-1 {
+    overflow-wrap: break-word;
+    font-family: var(--poppins-25-px-regular-font-family, 'Poppins');
+    font-weight: var(--poppins-25-px-regular-font-weight, 400);
+    font-size: var(--poppins-25-px-regular-font-size, 25px);
+    color: #000000;
+}
+
+.poppins-49-px-bold-1-sub2 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.poppins-49-px-bold-1-sub30 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.333;
+    color: var(--ffffff-1, #000000);
+}
+
+.poppins-49-px-bold-1-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.333;
+}
+
+.forum .frame-10000012471 {
+    position: absolute;
+    left: 0px;
+    bottom: 35px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.forum .frame-10000012461 {
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.forum .min-1 {
+    margin-right: 4.3px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 2.167;
+    color: var(--dedede, #5E5E5E);
+}
+
+.forum .ellipse-1931 {
+    border-radius: 1px;
+    background: var(--dedede, #5E5E5E);
+    margin: 13.5px 0 10.5px 0;
+    width: 2px;
+    height: 2px;
+}
+
+.forum .august-20241 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 2.167;
+    color: var(--dedede, #5E5E5E);
+}
+
+.forum .frame-1000001252 {
+    border-radius: 12px;
+    background: #BFDDBF;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 0 20px;
+    box-sizing: border-box;
+}
+
+.forum .image-12 {
+    border-radius: 12px;
+    background: url('../assets/images/image12.png') 50% / cover no-repeat;
+    margin-bottom: 9px;
+    width: 354px;
+    height: 236px;
+}
+
+.forum .frame-10000012482 {
+    position: relative;
+    margin: 0 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+}
+
+.forum .poppins-49-px-bold-2 {
+    overflow-wrap: break-word;
+    font-family: var(--poppins-25-px-regular-font-family, 'Poppins');
+    font-weight: var(--poppins-25-px-regular-font-weight, 400);
+    font-size: var(--poppins-25-px-regular-font-size, 25px);
+    color: #000000;
+}
+
+.poppins-49-px-bold-2-sub2 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.poppins-49-px-bold-2-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.333;
+}
+
+.poppins-49-px-bold-2-sub8 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.333;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .frame-10000012472 {
+    position: absolute;
+    left: 0px;
+    bottom: 35px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.forum .frame-10000012462 {
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.forum .min-2 {
+    margin-right: 4.3px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 2.167;
+    color: var(--dedede, #5E5E5E);
+}
+
+.forum .ellipse-1932 {
+    border-radius: 1px;
+    background: var(--dedede, #5E5E5E);
+    margin: 13.5px 0 10.5px 0;
+    width: 2px;
+    height: 2px;
+}
+
+.forum .august-20242 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 2.167;
+    color: var(--dedede, #5E5E5E);
+}
+
+.forum .slider {
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+    width: 40px;
+    box-sizing: border-box;
+}
+
+.forum .hero-heading-right-2 {
+    background: var(--d-9-efde, url('../assets/images/forum.jpeg') 50% / cover no-repeat);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 40px 117px 0 117px;
+    width: 1440px;
+    height: 1370px;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001262 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 1px;
+    width: 1206px;
+    height: 895px;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001258 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1205px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001257 {
+    margin: 0 7.8px 53px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.forum .our-news {
+    margin: 0 2.2px 18px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .berita-dan-informasi-konservasi-satwa-terkini-dan-terbaru-hari-ini {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .image-19 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/image19.png') 50% / cover no-repeat;
+    width: 1205px;
+    height: 531px;
+}
+
+.forum .frame-1000001260 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 0 0 12px 12px;
+    background: #FFFFFF;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 114.6px 15px 10px;
+    box-sizing: border-box;
+}
+
+.forum .frame-1000001259 {
+    margin-bottom: 42px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.forum .kisah-penyelamatan-penyu-dari-pantai-saba-bali {
+    margin-bottom: 23px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 30px;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .usaha-pelestarian-penyu-bisa-traveler-temui-dikawasan-pantai-saba-bali-disini-traveler-bisa-belajar-melestarikan-penyu-yang-makin-terancam-kepunahan {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .senin-30-maret-20241345-wib {
+    margin-bottom: 23px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--dedede, #5E5E5E);
+}
+
+.forum .slider-1 {
+    margin-left: 104.6px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    column-gap: 8px;
+    width: 40px;
+    box-sizing: border-box;
+}
+
+.forum .footer {
+    background: var(--e-261, #232E26);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: -4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    box-sizing: border-box;
+}
+
+.forum .image-1 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.forum .search-icon-1 {
+    width: 23.5px;
+    height: 24.5px;
+}
+
+.forum .badak {
+    margin-right: 13px;
+    width: 274px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: var(--ffffff-1, #000000);
+}
+
+.forum .caret {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.forum .caret-1 {
+    width: 18px;
+    height: 6px;
+}
+
+.forum .ellipse-2 {
+    border-radius: 4px;
+    background: var(--page-background, #E8EAEE);
+    width: 8px;
+    height: 8px;
+}
+
+.forum .ellipse-3 {
+    border-radius: 4px;
+    background: var(--page-background, #E8EAEE);
+    width: 8px;
+    height: 8px;
+}
+
+.forum .ellipse-4 {
+    border-radius: 4px;
+    background: var(--secondary-gray, #999FAA);
+    width: 8px;
+    height: 8px;
+}
+
+.forum .ellipse-21 {
+    border-radius: 4px;
+    background: var(--page-background, #E8EAEE);
+    width: 8px;
+    height: 8px;
+}
+
+.forum .ellipse-31 {
+    border-radius: 4px;
+    background: var(--page-background, #E8EAEE);
+    width: 8px;
+    height: 8px;
+}
+
+.forum .ellipse-41 {
+    border-radius: 4px;
+    background: var(--secondary-gray, #999FAA);
+    width: 8px;
+    height: 8px;
+}
+
+.forum .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.forum .logo-1 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.forum .image-11 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.forum .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.forum .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.forum .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.forum .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}

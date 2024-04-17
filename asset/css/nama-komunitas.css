@@ -1,0 +1,611 @@
+.nama-komunitas {
+    background: var(--bfddbf, #BFDDBF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .navbar-logo-left {
+    background: #FFFFFF;
+    margin-bottom: 74.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 132.3px 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .frame-1000001215 {
+    margin: 0 85.8px 74.7px 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .frame-1000001214 {
+    margin: 0 0 37.5px 2.9px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .green-guardian-society {
+    margin-bottom: 43.5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--ffffff-1, #000000);
+}
+
+.nama-komunitas .frame-1000001205 {
+    margin-left: 18.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .ellipse-185 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    width: 200px;
+    height: 200px;
+}
+
+.nama-komunitas .poppins-39-px-regular {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+
+.nama-komunitas .frame-1000001222 {
+    border-radius: 12px;
+    background: var(--e-262, url('../assets/images/frame1000001221.jpeg') 50% / cover no-repeat);
+    position: relative;
+    margin: 0 62px 74.7px 62px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 40px 29.3px 301px 0;
+    width: 1316px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .artikel-yang-diterbitkan {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 32px;
+    color: var(--ffffff, #FFFFFF);
+}
+
+.nama-komunitas .frame-1000001220 {
+    border-radius: 12px;
+    background: var(--e-262, url('../assets/images/frame1000001221.jpeg') 50% / cover no-repeat);
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    right: 0px;
+    translate: 0 -50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 51px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .frame-1000001217 {
+    border-radius: 12px;
+    background: var(--d-9-e-7-e-0, #D9E7E0);
+    margin-right: 40px;
+    display: flex;
+    flex-direction: row;
+    padding: 17px 0 17px 8px;
+    flex-grow: 1;
+    flex-basis: 378px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .ellipse-184 {
+    margin: 11px 12px 11px 0;
+    width: 103px;
+    height: 95px;
+}
+
+.nama-komunitas .frame-1000001216 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 314.3px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .poppins-49-px-bold {
+    position: relative;
+    margin-bottom: 53px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--poppins-25-px-regular-font-family, 'Poppins');
+    font-weight: var(--poppins-25-px-regular-font-weight, 400);
+    font-size: var(--poppins-25-px-regular-font-size, 25px);
+    color: #000000;
+}
+
+.nama-komunitas .poppins-25-px-regular {
+    position: absolute;
+    left: 0px;
+    top: 28.5px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 10px;
+    color: #000000;
+}
+
+.nama-komunitas .frame-1000001194 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .this-is-alink {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.nama-komunitas .arrow-1-stroke {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .frame-10000012201 {
+    border-radius: 12px;
+    background: var(--d-9-e-7-e-0, #D9E7E0);
+    margin-right: 40px;
+    display: flex;
+    flex-direction: row;
+    padding: 17px 0 17px 8px;
+    flex-grow: 1;
+    flex-basis: 378px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .ellipse-1841 {
+    margin: 11px 12px 11px 0;
+    width: 103px;
+    height: 95px;
+}
+
+.nama-komunitas .frame-10000012161 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 314.3px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .poppins-49-px-bold-1 {
+    position: relative;
+    margin-bottom: 53px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--poppins-25-px-regular-font-family, 'Poppins');
+    font-weight: var(--poppins-25-px-regular-font-weight, 400);
+    font-size: var(--poppins-25-px-regular-font-size, 25px);
+    color: #000000;
+}
+
+.nama-komunitas .poppins-25-px-regular-1 {
+    position: absolute;
+    left: 0px;
+    top: 28.5px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 10px;
+    color: #000000;
+}
+
+.nama-komunitas .frame-10000011941 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .this-is-alink-1 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.nama-komunitas .arrow-1-stroke-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .frame-1000001221 {
+    border-radius: 12px;
+    background: var(--d-9-e-7-e-0, #D9E7E0);
+    display: flex;
+    flex-direction: row;
+    padding: 17px 0 27px 8px;
+    flex-grow: 1;
+    flex-basis: 378px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .ellipse-1842 {
+    margin: 11px 12px 1px 0;
+    width: 103px;
+    height: 95px;
+}
+
+.nama-komunitas .frame-10000012162 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 314.3px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .poppins-49-px-bold-2 {
+    position: relative;
+    margin-bottom: 53px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--poppins-25-px-regular-font-family, 'Poppins');
+    font-weight: var(--poppins-25-px-regular-font-weight, 400);
+    font-size: var(--poppins-25-px-regular-font-size, 25px);
+    color: #000000;
+}
+
+.nama-komunitas .poppins-25-px-regular-2 {
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    translate: 0 -50%;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 10px;
+    color: #000000;
+}
+
+.nama-komunitas .frame-10000011942 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .this-is-alink-2 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.nama-komunitas .arrow-1-stroke-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .frame-10000012211 {
+    border-radius: 12px;
+    background: var(--e-262, url('../assets/images/frame1000001221.jpeg') 50% / cover no-repeat);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 14.5px 0 54.5px 0;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .footer {
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .image-1 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.nama-komunitas .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 524.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .navbar-link {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.nama-komunitas .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.nama-komunitas .navbar-link-2 {
+    border-radius: 50px;
+    background: var(--token-1, #012010);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 11px 8px 10.5px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--e-6-efea, #E6EFEA);
+}
+
+.nama-komunitas .navbar-link-3 {
+    margin: 8px 0px 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.nama-komunitas .button {
+    border-radius: 50px;
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--token, #222222);
+}
+
+.nama-komunitas .arrow-1-stroke-3 {
+    width: 8px;
+    height: 6px;
+}
+
+.nama-komunitas .arrow-1-stroke-4 {
+    width: 8px;
+    height: 6px;
+}
+
+.nama-komunitas .arrow-1-stroke-5 {
+    width: 8px;
+    height: 6px;
+}
+
+.nama-komunitas .ellipse-2 {
+    border-radius: 4px;
+    background: var(--b-1-ccbe, #B1CCBE);
+    width: 8px;
+    height: 8px;
+}
+
+.nama-komunitas .ellipse-3 {
+    border-radius: 4px;
+    background: var(--b-1-ccbe, #B1CCBE);
+    width: 8px;
+    height: 8px;
+}
+
+.nama-komunitas .ellipse-4 {
+    border-radius: 4px;
+    background: var(--secondary-gray, #999FAA);
+    width: 8px;
+    height: 8px;
+}
+
+.nama-komunitas .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .logo-1 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .image-11 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.nama-komunitas .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.nama-komunitas .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.nama-komunitas .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.nama-komunitas .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}

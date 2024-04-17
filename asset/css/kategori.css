@@ -1,0 +1,730 @@
+.kategori {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.kategori .kategori-hewan {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .navbar-logo-left {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 140.3px 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.kategori .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.kategori .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 531.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .navbar-link {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.kategori .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.kategori .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.kategori .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.kategori .navbar-link-2 {
+    border-radius: 50px;
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 18.5px 8px 18px;
+    box-sizing: border-box;
+}
+
+.kategori .kategori-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--f-2-f-4-f-8, #F2F4F8);
+}
+
+.kategori .navbar-link-3 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.kategori .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.kategori .button {
+    border-radius: 50px;
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.kategori .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ffffff-1, #000000);
+}
+
+.kategori .coba {
+    background: var(--bfddbf, #BFDDBF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 36.5px 39px 91px 39px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .hewan {
+    margin: 0 14.4px 36.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 0.65;
+    color: var(--e-26, #232E26);
+}
+
+.kategori .frame-1000001190 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .frame-1000001177 {
+    border-radius: 12px;
+    background: #FFFFFF;
+    margin-right: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 45.4px 42px 20px;
+    box-sizing: border-box;
+}
+
+.kategori .frame-17 {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .image-12 {
+    border-radius: 12px;
+    background: url('../assets/images/image4.png') 50% / cover no-repeat, url('../assets/images/image4.png') 50% / cover no-repeat, url('../assets/images/image4.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 354px;
+    height: 236px;
+}
+
+.badak-bercula-satu-badak-jawa-atau-badak-bercula-satu-merupakan-spesies-badak-yang-terancam-punah-lihat-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    color: #5E5E5E;
+}
+
+.badak-bercula-satu-badak-jawa-atau-badak-bercula-satu-merupakan-spesies-badak-yang-terancam-punah-lihat-selengkapnya-sub12 {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kategori .badak-bercula-satu-badak-jawa-atau-badak-bercula-satu-merupakan-spesies-badak-yang-terancam-punah-lihat-selengkapnya {
+    margin: 21.5px 0 99.5px 0;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.kategori .frame-1000001169 {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .rectangle-3522 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle3523.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 354px;
+    height: 236px;
+}
+
+.badak-bercula-satu-badak-jawa-atau-badak-bercula-satu-merupakan-spesies-badak-yang-terancam-punah-lihat-selengkapnya-1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    color: #5E5E5E;
+}
+
+.badak-bercula-satu-badak-jawa-atau-badak-bercula-satu-merupakan-spesies-badak-yang-terancam-punah-lihat-selengkapnya-1-sub12 {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kategori .badak-bercula-satu-badak-jawa-atau-badak-bercula-satu-merupakan-spesies-badak-yang-terancam-punah-lihat-selengkapnya-1 {
+    margin: 21.5px 0 99.5px 0;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.kategori .frame-1000001168 {
+    margin-right: 10.2px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .image-121 {
+    border-radius: 12px;
+    background: url('../assets/images/image5.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 354px;
+    height: 236px;
+}
+
+.kategori .penjual-orang-utan-di-hukum-penjara-jaksa-pikir-pikir-pengadilan-negeri-pn-langsa-menjatuhkan-hukuman-18-lihat-selengkapnya {
+    margin: 21.5px 0 123.5px 0;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.penjual-orang-utan-di-hukum-penjara-jaksa-pikir-pikir-pengadilan-negeri-pn-langsa-menjatuhkan-hukuman-18-lihat-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    color: #5E5E5E;
+}
+
+.penjual-orang-utan-di-hukum-penjara-jaksa-pikir-pikir-pengadilan-negeri-pn-langsa-menjatuhkan-hukuman-18-lihat-selengkapnya-sub12 {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kategori .frame-1000001189 {
+    margin-bottom: 134px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.kategori .frame-1000001183 {
+    border-radius: 12px;
+    background: #FFFFFF;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    padding: 20.5px 10px 24px 20px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .frame-1000001191 {
+    margin-right: 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.kategori .populer {
+    margin: 0 5.8px 6.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.3;
+    color: var(--ffffff-1, #000000);
+}
+
+.kategori .frame-1000001188 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .frame-1000001184 {
+    border-radius: 12px;
+    border: 1px solid #DEDEDE;
+    background: #FFFFFF;
+    margin-bottom: 9px;
+    display: flex;
+    flex-direction: row;
+    padding: 9px 10.1px 9px 9px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .rectangle-3523 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle3523.png') 50% / cover no-repeat;
+    margin-right: 7px;
+    width: 80px;
+    height: 100px;
+}
+
+.kategori .menguak-potensi-sapat-hawu-ada-spesies-baru-dan-baca-selengkapnya {
+    margin-bottom: 7px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.833;
+    color: var(--ffffff-1, #000000);
+}
+
+.menguak-potensi-sapat-hawu-ada-spesies-baru-dan-baca-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.menguak-potensi-sapat-hawu-ada-spesies-baru-dan-baca-selengkapnya-sub20 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 1.333;
+    color: var(--dedede, #5E5E5E);
+}
+
+.menguak-potensi-sapat-hawu-ada-spesies-baru-dan-baca-selengkapnya-sub21 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.kategori .frame-1000001185 {
+    border-radius: 12px;
+    border: 1px solid #DEDEDE;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 9px 10.1px 9px 9px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .rectangle-35231 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle3523.png') 50% / cover no-repeat;
+    margin-right: 7px;
+    width: 80px;
+    height: 100px;
+}
+
+.kategori .menguak-potensi-sapat-hawu-ada-spesies-baru-dan-baca-selengkapnya-1 {
+    margin-bottom: 7px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.833;
+    color: var(--ffffff-1, #000000);
+}
+
+.menguak-potensi-sapat-hawu-ada-spesies-baru-dan-baca-selengkapnya-1 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.menguak-potensi-sapat-hawu-ada-spesies-baru-dan-baca-selengkapnya-1-sub20 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 1.333;
+    color: var(--dedede, #5E5E5E);
+}
+
+.menguak-potensi-sapat-hawu-ada-spesies-baru-dan-baca-selengkapnya-1-sub21 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.kategori .rectangle-4425 {
+    border-radius: 8px;
+    background: var(--f-2-f-4-f-81, #DEDEDE);
+    margin: 102.5px 0 99px 0;
+    width: 3px;
+    height: 80px;
+}
+
+.kategori .box-search {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .footer {
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.kategori .image-1 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.kategori .list {
+    border-radius: 12px;
+    border: 1px solid var(--f-2-f-4-f-81, #DEDEDE);
+    background: #FFFFFF;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 23.5px 13px 22.5px 19px;
+    width: 339px;
+    box-sizing: border-box;
+}
+
+.badak {
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.333;
+    color: var(--f-2-f-4-f-81, #DEDEDE);
+}
+
+.kategori .badak {
+    margin-right: 13.5px;
+    width: 273.5px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: var(--ffffff-1, #000000);
+}
+
+.kategori .caret {
+    margin: 10px 0 11px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.kategori .caret-1 {
+    width: 18px;
+    height: 6px;
+}
+
+.kategori .check-box {
+    border-radius: 4px;
+    background: #F2F4F8;
+    margin: 3px 20px 3px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.kategori .badak-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.kategori .frame-1000001178 {
+    border-radius: 12px 12px 0 0;
+    border: 1px solid var(--f-2-f-4-f-81, #DEDEDE);
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 21.5px 0 21.5px 19px;
+    width: 339px;
+    box-sizing: border-box;
+}
+
+.kategori .frame-1000001179 {
+    border: 1px solid var(--f-2-f-4-f-81, #DEDEDE);
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 21.5px 0 21.5px 19px;
+    width: 339px;
+    box-sizing: border-box;
+}
+
+.kategori .orang-utan {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.kategori .check-box-active {
+    border-radius: 4px;
+    background: #F2F4F8;
+    margin: 3px 20px 3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 6px;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+}
+
+.kategori .vector-1 {
+    width: 12px;
+    height: 8px;
+}
+
+.kategori .frame-1000001180 {
+    border: 1px solid var(--f-2-f-4-f-81, #DEDEDE);
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 21.5px 0 21.5px 19px;
+    width: 339px;
+    box-sizing: border-box;
+}
+
+.kategori .check-box-1 {
+    border-radius: 4px;
+    background: #F2F4F8;
+    margin: 3px 20px 3px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.kategori .harimau {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.kategori .frame-1000001181 {
+    border-radius: 0 0 12px 12px;
+    border: 1px solid var(--f-2-f-4-f-81, #DEDEDE);
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 21.5px 0 21.5px 19px;
+    width: 339px;
+    box-sizing: border-box;
+}
+
+.kategori .check-box-2 {
+    border-radius: 4px;
+    background: #F2F4F8;
+    margin: 3px 20px 3px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.kategori .buaya {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.kategori .frame-1000001182 {
+    border-radius: 12px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.kategori .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.kategori .logo-1 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.kategori .image-11 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.kategori .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.kategori .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.kategori .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kategori .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}

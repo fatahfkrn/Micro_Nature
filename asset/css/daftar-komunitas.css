@@ -1,0 +1,857 @@
+.daftar-komunitas {
+    background: var(--bfddbf, #BFDDBF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .navbar-logo-left {
+    background: #FFFFFF;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 132.3px 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001238 {
+    position: relative;
+    margin: 0 62.5px 33px 62.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001236 {
+    position: relative;
+    margin-bottom: 92.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .daftar-komunitas-1 {
+    margin: 0 22.1px 53.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--ffffff-1, #000000);
+}
+
+.daftar-komunitas .frame-1000001231 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001228 {
+    margin-bottom: 59.5px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001225 {
+    border-radius: 12px;
+    background: var(--ffffff, #FFFFFF);
+    margin-right: 23px;
+    display: flex;
+    flex-direction: row;
+    padding: 38.5px 46px 38.5px 20px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .ellipse-182 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-right: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+.daftar-komunitas .frame-1000001224 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001223 {
+    margin-bottom: 37px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .poppins-39-px-bold {
+    margin-bottom: 11px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.daftar-komunitas .poppins-25-px-regular {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+}
+
+.daftar-komunitas .frame-1000001195 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .this-is-alink {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.daftar-komunitas .arrow-1-stroke {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001227 {
+    border-radius: 12px;
+    background: var(--ffffff, #FFFFFF);
+    display: flex;
+    flex-direction: row;
+    padding: 38.5px 46px 38.5px 20px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .ellipse-1821 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-right: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+.daftar-komunitas .frame-10000012241 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012231 {
+    margin-bottom: 37px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .poppins-39-px-bold-1 {
+    margin-bottom: 11px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.daftar-komunitas .poppins-25-px-regular-1 {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+}
+
+.daftar-komunitas .frame-10000011951 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .this-is-alink-1 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.daftar-komunitas .arrow-1-stroke-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001229 {
+    margin-bottom: 59.5px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012251 {
+    border-radius: 12px;
+    background: var(--ffffff, #FFFFFF);
+    margin-right: 23px;
+    display: flex;
+    flex-direction: row;
+    padding: 38.5px 46px 38.5px 20px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .ellipse-1822 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-right: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+.daftar-komunitas .frame-10000012242 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012232 {
+    margin-bottom: 37px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .poppins-39-px-bold-2 {
+    margin-bottom: 11px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.daftar-komunitas .poppins-25-px-regular-2 {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+}
+
+.daftar-komunitas .frame-10000011952 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .this-is-alink-2 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.daftar-komunitas .arrow-1-stroke-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012271 {
+    border-radius: 12px;
+    background: var(--ffffff, #FFFFFF);
+    display: flex;
+    flex-direction: row;
+    padding: 38.5px 46px 38.5px 20px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .ellipse-1823 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-right: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+.daftar-komunitas .frame-10000012243 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012233 {
+    margin-bottom: 37px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .poppins-39-px-bold-3 {
+    margin-bottom: 11px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.daftar-komunitas .poppins-25-px-regular-3 {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+}
+
+.daftar-komunitas .frame-10000011953 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .this-is-alink-3 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.daftar-komunitas .arrow-1-stroke-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001230 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012252 {
+    border-radius: 12px;
+    background: var(--ffffff, #FFFFFF);
+    margin-right: 23px;
+    display: flex;
+    flex-direction: row;
+    padding: 38.5px 46px 38.5px 20px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .ellipse-1824 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-right: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+.daftar-komunitas .frame-10000012244 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012234 {
+    margin-bottom: 37px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .poppins-39-px-bold-4 {
+    margin-bottom: 11px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.daftar-komunitas .poppins-25-px-regular-4 {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+}
+
+.daftar-komunitas .frame-10000011954 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .this-is-alink-4 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.daftar-komunitas .arrow-1-stroke-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012272 {
+    border-radius: 12px;
+    background: var(--ffffff, #FFFFFF);
+    display: flex;
+    flex-direction: row;
+    padding: 38.5px 46px 38.5px 20px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .ellipse-1825 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-right: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+.daftar-komunitas .frame-10000012245 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-10000012235 {
+    margin-bottom: 37px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .poppins-39-px-bold-5 {
+    margin-bottom: 11px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.daftar-komunitas .poppins-25-px-regular-5 {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+}
+
+.daftar-komunitas .frame-10000011955 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-start;
+    padding: 10px 0;
+    width: 66px;
+    height: 26px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .this-is-alink-5 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 10px;
+    text-decoration-line: underline;
+    line-height: 2.6;
+    color: var(--dedede, #5E5E5E);
+}
+
+.daftar-komunitas .arrow-1-stroke-5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 6px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001237 {
+    margin: 0 26.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .frame-1000001233 {
+    position: absolute;
+    right: 0px;
+    bottom: 35px;
+    width: 105px;
+    height: 106px;
+}
+
+.daftar-komunitas .forum {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.daftar-komunitas .frame-1000001235 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .footer {
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    width: 1440px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .image-1 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.daftar-komunitas .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 524.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .navbar-link {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar-komunitas .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar-komunitas .navbar-link-2 {
+    border-radius: 50px;
+    background: var(--token-1, #012010);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 11px 8px 10.5px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--e-6-efea, #E6EFEA);
+}
+
+.daftar-komunitas .navbar-link-3 {
+    margin: 8px 0px 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar-komunitas .button {
+    border-radius: 50px;
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--token, #222222);
+}
+
+.daftar-komunitas .arrow-1-stroke-6 {
+    width: 8px;
+    height: 6px;
+}
+
+.daftar-komunitas .arrow-1-stroke-7 {
+    width: 8px;
+    height: 6px;
+}
+
+.daftar-komunitas .arrow-1-stroke-8 {
+    width: 8px;
+    height: 6px;
+}
+
+.daftar-komunitas .arrow-1-stroke-9 {
+    width: 8px;
+    height: 6px;
+}
+
+.daftar-komunitas .arrow-1-stroke-10 {
+    width: 8px;
+    height: 6px;
+}
+
+.daftar-komunitas .arrow-1-stroke-11 {
+    width: 8px;
+    height: 6px;
+}
+
+.daftar-komunitas .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .logo-1 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .image-11 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.daftar-komunitas .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.daftar-komunitas .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.daftar-komunitas .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.daftar-komunitas .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}

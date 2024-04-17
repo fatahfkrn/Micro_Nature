@@ -1,0 +1,372 @@
+.daftar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.daftar .navbar-logo-left {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 132.3px 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.daftar .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.daftar .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 539.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar .button {
+    border-radius: 20px;
+    border: 1px solid #232E26;
+    background: #232E26;
+    padding: 8px 20px;
+    width: 80px;
+    box-sizing: border-box;
+}
+
+.daftar .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+}
+
+.daftar .navbar-link {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar .navbar-link-2 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar .navbar-link-3 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.daftar .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.daftar .frame-1000001166 {
+    background: #232E26;
+    position: relative;
+    width: 1440px;
+    height: 935px;
+}
+
+.daftar .frame-1000001165 {
+    position: absolute;
+    left: 125px;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.daftar .logo-1 {
+    margin: 317.5px 187px 317.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 300px;
+    flex-grow: 1;
+    flex-basis: 411px;
+    box-sizing: border-box;
+}
+
+.daftar .frame-1000001164 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-grow: 1;
+    flex-basis: 717px;
+    box-sizing: border-box;
+}
+
+.daftar .iphone-8-plus-2 {
+    border-radius: 24px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 39.5px 36px;
+    box-sizing: border-box;
+}
+
+.daftar .frame-10017 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar .logo-2 {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 198px;
+    height: 146px;
+    box-sizing: border-box;
+}
+
+.daftar .frame-10016 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar .daftar-1 {
+    margin: 0 12.4px 33px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: var(--token, #222222);
+}
+
+.daftar .frame-10015 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.daftar .frame-220 {
+    margin-bottom: 47px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.daftar .jual-sampah {
+    border-radius: 8px;
+    border: 2px solid var(--e-261, #232E26);
+    background: var(--background-background-normal, #FFFFFF);
+    margin-bottom: 16px;
+    padding: 12px 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.daftar .jual-sampah-1 {
+    border-radius: 8px;
+    border: 2px solid var(--e-261, #232E26);
+    background: var(--background-background-normal, #FFFFFF);
+    margin-bottom: 16px;
+    padding: 12px 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.daftar .jual-sampah-2 {
+    border-radius: 8px;
+    border: 2px solid var(--e-261, #232E26);
+    background: var(--background-background-normal, #FFFFFF);
+    margin-bottom: 16px;
+    padding: 12px 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.daftar .jual-sampah-3 {
+    border-radius: 8px;
+    border: 2px solid var(--e-261, #232E26);
+    background: var(--background-background-normal, #FFFFFF);
+    margin-bottom: 16px;
+    padding: 12px 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.daftar .jual-sampah-4 {
+    border-radius: 8px;
+    border: 2px solid var(--e-261, #232E26);
+    background: var(--background-background-normal, #FFFFFF);
+    padding: 12px 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.daftar .button-1 {
+    border-radius: 8px;
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0.3px 12px 0;
+    width: 342px;
+    box-sizing: border-box;
+}
+
+.already-have-an-account-log-in {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.333;
+    color: var(--e-261, #232E26);
+}
+
+.already-have-an-account-log-in-sub19 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #02371C;
+}
+
+.daftar .already-have-an-account-log-in {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--fontbg-fontactive, #222222);
+}
+
+.daftar .image-1 {
+    background: url('../img/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.daftar .image-11 {
+    background: url('../img/image1.png') 50% / cover no-repeat;
+    width: 411px;
+    height: 300px;
+}
+
+.daftar .image-12 {
+    background: url('../img/image1.png') 50% / cover no-repeat;
+    width: 198px;
+    height: 146px;
+}
+
+.daftar .text-field {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--e-261, #232E26);
+}
+
+.daftar .text-field-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--e-261, #232E26);
+}
+
+.daftar .text-field-2 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--e-261, #232E26);
+}
+
+.daftar .text-field-3 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--e-261, #232E26);
+}
+
+.daftar .text-field-4 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--e-261, #232E26);
+}
+
+.daftar .button-2 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 14px;
+    color: var(--fontbg-light, #EAEAEA);
+}

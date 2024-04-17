@@ -1,0 +1,351 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.login .navbar-logo-left {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 132.3px 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.login .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.login .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 539.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.login .button {
+    border-radius: 50px;
+    border: 1px solid #232E26;
+    background: #232E26;
+    padding: 8px 20px;
+    width: 78px;
+    box-sizing: border-box;
+}
+
+.login .login-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+}
+
+.login .navbar-link {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.login .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.login .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.login .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.login .navbar-link-2 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.login .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.login .navbar-link-3 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.login .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.login .frame-1000001166 {
+    background: #232E26;
+    position: relative;
+    width: 1440px;
+    height: 935px;
+}
+
+.login .frame-1000001165 {
+    position: absolute;
+    left: 125px;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.login .logo-1 {
+    margin: 317.5px 187px 317.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 300px;
+    flex-grow: 1;
+    flex-basis: 411px;
+    box-sizing: border-box;
+}
+
+.login .frame-1000001164 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 118px 0;
+    flex-grow: 1;
+    flex-basis: 717px;
+    box-sizing: border-box;
+}
+
+.login .iphone-8-plus-1 {
+    border-radius: 24px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 100px 29px 144px 0;
+    width: 414px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.login .frame-215 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    width: 198px;
+    height: 146px;
+    box-sizing: border-box;
+}
+
+.login .frame-218 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.login .frame-216 {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.login .jual-sampah {
+    border-radius: 8px;
+    border: 2px solid var(--e-261, #232E26);
+    background: var(--background-background-normal, #FFFFFF);
+    margin-bottom: 16px;
+    padding: 12px 16px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.login .jual-sampah-1 {
+    border-radius: 8px;
+    border: 2px solid var(--e-261, #232E26);
+    background: var(--background-background-normal, #FFFFFF);
+    padding: 12px 16px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.login .frame-217 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 342px;
+    box-sizing: border-box;
+}
+
+.login .button-1 {
+    border-radius: 8px;
+    background: var(--e-261, #232E26);
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0.6px 12px 0;
+    width: 342px;
+    box-sizing: border-box;
+}
+
+.dont-have-an-account-sign-up {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.333;
+    color: var(--e-261, #232E26);
+}
+
+.dont-have-an-account-sign-up-sub21 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.dont-have-an-account-sign-up-sub22 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    color: var(--e-261, #232E26);
+}
+
+.login .dont-have-an-account-sign-up {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--fontbg-fontactive, #222222);
+}
+
+.login .frame-10011 {
+    margin: 0 28.9px 96px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 313.1px;
+    box-sizing: border-box;
+}
+
+.login .frame-10010 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.login .rectangle-4434 {
+    border-radius: 4px;
+    border: 1px solid var(--a-2-b-2-a, #2A2B2A);
+    margin-right: 2px;
+    width: 12px;
+    height: 12px;
+}
+
+.login .remember-password {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 10px;
+    color: var(--token, #222222);
+}
+
+.login .forgot-password {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 10px;
+    color: var(--f-02-d-2-d, #F02D2D);
+}
+
+.login .image-1 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.login .image-11 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 411px;
+    height: 300px;
+}
+
+.login .image-12 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 198px;
+    height: 146px;
+}
+
+.login .text-field {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--e-261, #232E26);
+}
+
+.login .text-field-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--e-261, #232E26);
+}
+
+.login .button-2 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--fontbg-light, #EAEAEA);
+}

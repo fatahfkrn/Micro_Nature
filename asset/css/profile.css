@@ -1,0 +1,958 @@
+.frame-1000001330 .container {
+    border-radius: 5px;
+    border: 2px solid #858585;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 21px 27.7px 17.4px 27.1px;
+    width: 873px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .security {
+    margin-top: 7px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 28px;
+    color: #858585;
+}
+
+.frame-1000001330 .group-5 {
+    margin: 0 0 84.3px 3.8px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .settings {
+    margin: 0 34.8px 5.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 32.4px;
+    height: 33.3px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-1 {
+    width: 32.4px;
+    height: 33.3px;
+}
+
+.frame-1000001330 .appearance {
+    margin-top: 4.7px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 28px;
+    color: #858585;
+}
+
+.frame-1000001330 .group-6 {
+    margin: 0 3.3px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .help-outline {
+    margin: 0 34.3px 4.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 33.3px;
+    height: 33.3px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-2 {
+    width: 33.3px;
+    height: 33.3px;
+}
+
+.frame-1000001330 .help {
+    margin-top: 3.7px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 28px;
+    color: #858585;
+}
+
+.frame-1000001330 .line-1 {
+    background: #858585;
+    width: 1px;
+    height: 1117px;
+}
+
+.frame-1000001330 .unsplash-c-8-ta-0-gw-pb-qg {
+    border-radius: 500px;
+    background: url('../assets/images/unsplashC8Ta0GwPbQg.jpeg') 50% / cover no-repeat;
+    width: 120px;
+    height: 120px;
+}
+
+.frame-1000001330 .edit-profile {
+    margin: 23px 27px 43px 0;
+    display: inline-block;
+    width: 729px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 45px;
+    color: #000000;
+}
+
+.frame-1000001330 .firstname {
+    border-radius: 5px;
+    margin-right: 64px;
+    display: flex;
+    flex-direction: column;
+    width: 405px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .first-name {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 26px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .fatah {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    color: #858585;
+}
+
+.frame-1000001330 .city {
+    margin-right: 61px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .city-1 {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 26px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .jakarta {
+    margin-right: 14.5px;
+    width: 314.5px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #858585;
+}
+
+.frame-1000001330 .keyboard-arrow-down {
+    margin: 5.2px 0 9px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24px;
+    height: 14.8px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-3 {
+    width: 24px;
+    height: 14.8px;
+}
+
+.frame-1000001330 .state {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .state-1 {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 26px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .pamungkas {
+    margin-right: 14.5px;
+    width: 317.9px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #858585;
+}
+
+.frame-1000001330 .keyboard-arrow-down-1 {
+    margin: 3px 0 11.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24.3px;
+    height: 14.8px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-4 {
+    width: 24.3px;
+    height: 14.8px;
+}
+
+.frame-1000001330 .email {
+    margin: 0 3px 18px 3px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .email-1 {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 26px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .fatahgmail-com {
+    margin: 0 14.5px 2.6px 0;
+    display: inline-block;
+    width: 774.2px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #858585;
+}
+
+.frame-1000001330 .group-8 {
+    border-radius: 5px;
+    background: #23B000;
+    position: relative;
+    margin-top: 1.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 7.4px 5.2px;
+    width: 29.5px;
+    height: 29.7px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .check {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.2px;
+    height: 14.8px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-5 {
+    width: 19.2px;
+    height: 14.8px;
+}
+
+.frame-1000001330 .password {
+    margin: 0 0 53px 3px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .password-1 {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 26px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .sbdfbnd-65-sfdvb-s {
+    margin: 0 14.5px 2.6px 0;
+    display: inline-block;
+    width: 774.2px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #858585;
+}
+
+.frame-1000001330 .group-81 {
+    border-radius: 5px;
+    background: #23B000;
+    position: relative;
+    margin-top: 1.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 7.4px 5.2px;
+    width: 29.5px;
+    height: 29.7px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .check-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.2px;
+    height: 14.8px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-6 {
+    width: 19.2px;
+    height: 14.8px;
+}
+
+.frame-1000001330 .address {
+    border-radius: 5px;
+    margin: 0 0 18px 3px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .address-1 {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 26px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .jakarta-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #858585;
+}
+
+.frame-1000001330 .address-2 {
+    border-radius: 5px;
+    margin: 0 0 18px 3px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .contact-number {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 26px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .container {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #858585;
+}
+
+.frame-1000001330 .lastname {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 407px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .last-name {
+    margin-bottom: 7px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 26px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .muham {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    color: #858585;
+}
+
+.frame-1000001330 .group-9 {
+    border-radius: 5px;
+    border: 2px solid #02371C;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 11px 3.2px 10px 0;
+    width: 180px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .cancel {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 28px;
+    color: var(--c, #02371C);
+}
+
+.frame-1000001330 .group-10 {
+    border-radius: 5px;
+    background: #02371C;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 11px 2.1px 10px 0;
+    width: 180px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .save {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+
+.frame-1000001330 .mac-book-pro-161 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 0 133px 0 66px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .side-bar-2 {
+    margin-right: 97px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .settings-1 {
+    margin: 0 43.1px 90.6px 0;
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 32px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .keyboard-arrow-left {
+    margin: 44px 9.2px 1049px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14.8px;
+    height: 24px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-7 {
+    width: 14.8px;
+    height: 24px;
+}
+
+.frame-1000001330 .group-2 {
+    margin: 0 8.8px 91.2px 5.6px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .edit-profile-1 {
+    margin-top: 0.4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 28px;
+    color: #1C1C1C;
+}
+
+.frame-1000001330 .edit {
+    margin: 0 33.6px 0.6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 33.8px;
+    height: 33.8px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-8 {
+    width: 33.8px;
+    height: 33.8px;
+}
+
+.frame-1000001330 .group-3 {
+    margin: 0 0.4px 81px 6.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 210.9px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .notification {
+    margin-top: 2.8px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 28px;
+    color: #858585;
+}
+
+.frame-1000001330 .notifications {
+    margin-bottom: 4.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 26.7px;
+    height: 32.5px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .vector-9 {
+    width: 26.7px;
+    height: 32.5px;
+}
+
+.frame-1000001330 .group-4 {
+    margin-bottom: 84.3px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .lock {
+    margin: 0 31px 1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .navbar {
+    border-bottom: 1px solid var(--e-5-e-5-e, #5E5E5E);
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 121px 8px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .navbar-menu {
+    margin: 2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 607px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .navbar-link {
+    margin: 13px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.frame-1000001330 .navbar-link-1 {
+    margin: 13px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.frame-1000001330 .navbar-link-2 {
+    margin: 13px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.frame-1000001330 .navbar-link-3 {
+    border-radius: 50px;
+    margin: 13px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ffffff, #000000);
+}
+
+.frame-1000001330 .frame-1000001324 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .fatah-muh {
+    margin: 15px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.25;
+    color: #0F1419;
+}
+
+.frame-1000001330 .frame-1000001329 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .unsplash-c-8-ta-0-gw-pb-qg-1 {
+    border-radius: 500px;
+    background: url('../assets/images/unsplashC8Ta0GwPbQg.jpeg') 50% / cover no-repeat;
+    margin-right: 3px;
+    width: 50px;
+    height: 50px;
+}
+
+.frame-1000001330 .footer {
+    background: var(--e-26, #232E26);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-1 {
+    margin: 34px 0 81px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-2 {
+    width: 40px;
+    height: 40px;
+}
+
+.frame-1000001330 .container-3 {
+    margin: 41px 22px 418px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-4 {
+    border-radius: 5px;
+    border: 2px solid #858585;
+    background: #FFFFFF;
+    position: relative;
+    padding: 21px 27.2px 20px 27.2px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-5 {
+    border-radius: 5px;
+    border: 2px solid #858585;
+    background: #FFFFFF;
+    position: relative;
+    padding: 21px 27.1px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-6 {
+    border-radius: 5px;
+    border: 2px solid #858585;
+    background: #FFFFFF;
+    position: relative;
+    padding: 21px 27.2px 20px 27.2px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-7 {
+    border-radius: 5px;
+    border: 2px solid #858585;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 21px 25px 20px 27px;
+    width: 405px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-8 {
+    margin: 0 0 36px 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 876px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-9 {
+    border-radius: 5px;
+    border: 2px solid #858585;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 21px 26.3px 20px 27px;
+    width: 410px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-10 {
+    border-radius: 5px;
+    border: 2px solid #858585;
+    background: #FFFFFF;
+    position: relative;
+    padding: 21px 27px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-11 {
+    margin: 0 0 18px 3px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-12 {
+    margin: 0 0 18px 3px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .container-13 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .image-1 {
+    background: url('../assets/images/image11.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.frame-1000001330 .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .logo-1 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .image-11 {
+    background: url('../assets/images/image11.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.frame-1000001330 .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.frame-1000001330 .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.frame-1000001330 .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.frame-1000001330 .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}
+
+.frame-1000001330 .container-14 {
+    border-radius: 5px;
+    border: 2px solid #858585;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 21px 30.7px 17.4px 27.1px;
+    width: 876px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,820 @@
+.tentang {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.tentang .navbar-logo-left {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.tentang .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.tentang .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 552px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .navbar-link {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.tentang .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.tentang .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.tentang .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.tentang .navbar-link-2 {
+    border-radius: 50px;
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.tentang .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ffffff-1, #000000);
+}
+
+.tentang .navbar-link-3 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.tentang .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.tentang .button {
+    border-radius: 50px;
+    background: var(--e-261, #232E26);
+    padding: 8px 20px;
+    width: 96px;
+    box-sizing: border-box;
+}
+
+.tentang .tentang-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ffffff-2, #F2F4F8);
+}
+
+.tentang .hero-heading-right {
+    border: 1px solid #000000;
+    background: #BFDDBF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 29px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001192 {
+    margin: 0 65.9px 50px 63px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .logo-1 {
+    margin: 0 0 42px 2.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 280px;
+    height: 206px;
+    box-sizing: border-box;
+}
+
+.tentang .poppins-39-px-regular {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 25px;
+    color: #000000;
+}
+
+.tentang .frame-1000001200 {
+    border-radius: 20px;
+    background: #FFFFFF;
+    margin: 0 63px 16px 63px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 71.5px 20px 71.5px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .artikel-yang-diterbitkan {
+    margin: 0 29.3px 25.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 32px;
+    color: var(--ffffff-1, #000000);
+}
+
+.tentang .frame-1000001199 {
+    margin-bottom: 26.5px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 53.5px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001196 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.tentang .rectangle-3523 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle3523.png') 50% / cover no-repeat;
+    margin-bottom: 26px;
+    width: 354px;
+    height: 236px;
+}
+
+.tentang .frame-1000001195 {
+    margin-right: 30.5px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .komodo-teremasuk-spesies-hewan-di-indonesia-yang {
+    margin-bottom: 40px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #232E26;
+}
+
+.tentang .frame-1000001193 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .this-is-alink {
+    margin-right: 12px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration-line: underline;
+    line-height: 1.625;
+    color: #5E5E5E;
+}
+
+.tentang .arrow-1-stroke {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14px;
+    height: 12px;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001197 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.tentang .rectangle-35231 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle35231.png') 50% / cover no-repeat;
+    margin-bottom: 26px;
+    width: 354px;
+    height: 236px;
+}
+
+.tentang .frame-10000011951 {
+    margin-right: 30.5px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .komodo-teremasuk-spesies-hewan-di-indonesia-yang-1 {
+    margin-bottom: 40px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #232E26;
+}
+
+.tentang .frame-10000011931 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .this-is-alink-1 {
+    margin-right: 12px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration-line: underline;
+    line-height: 1.625;
+    color: #5E5E5E;
+}
+
+.tentang .arrow-1-stroke-1 {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14px;
+    height: 12px;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001198 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.tentang .rectangle-3535 {
+    border-radius: 12px;
+    background: url('../assets/images/rectangle3535.png') 50% / cover no-repeat;
+    margin-bottom: 26px;
+    width: 354px;
+    height: 236px;
+}
+
+.tentang .frame-10000011952 {
+    margin-right: 30.5px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .komodo-teremasuk-spesies-hewan-di-indonesia-yang-2 {
+    margin-bottom: 40px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #232E26;
+}
+
+.tentang .frame-10000011932 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .this-is-alink-2 {
+    margin-right: 12px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration-line: underline;
+    line-height: 1.625;
+    color: #5E5E5E;
+}
+
+.tentang .arrow-1-stroke-2 {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14px;
+    height: 12px;
+    box-sizing: border-box;
+}
+
+.tentang .slider {
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+    width: 40px;
+    box-sizing: border-box;
+}
+
+.tentang .footer {
+    background: var(--e-261, #232E26);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.tentang .logo-2 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.tentang .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.tentang .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.tentang .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}
+
+.tentang .footer-1 {
+    background: var(--e-261, #232E26);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: -414px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001245 {
+    background: var(--bfddbf, #BFDDBF);
+    position: relative;
+    margin-bottom: 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-right: 20px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001207 {
+    background: #BFDDBF;
+    position: relative;
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 125px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .komunitas-patner {
+    margin: 0 10.8px 68px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--ffffff-1, #000000);
+}
+
+.tentang .frame-1000001206 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001205 {
+    margin-bottom: 29px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 123.3px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001201 {
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.tentang .ellipse-184 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-bottom: 45px;
+    width: 200px;
+    height: 200px;
+}
+
+.tentang .ecofun {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--ffffff-1, #000000);
+}
+
+.tentang .frame-1000001202 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.tentang .ellipse-185 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-bottom: 45px;
+    width: 200px;
+    height: 200px;
+}
+
+.tentang .komunitas-pemangku-kehutanan {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--ffffff-1, #000000);
+}
+
+.tentang .frame-1000001203 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.tentang .ellipse-1851 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-bottom: 45px;
+    width: 200px;
+    height: 200px;
+}
+
+.tentang .green-guardian-society {
+    margin: 0 11.6px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--ffffff-1, #000000);
+}
+
+.tentang .frame-1000001204 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.tentang .ellipse-1852 {
+    border-radius: 100px;
+    background: url('../assets/images/ellipse185.jpeg') 50% / cover no-repeat;
+    margin-bottom: 45px;
+    width: 200px;
+    height: 200px;
+}
+
+.tentang .yayasan-badak-indonesia {
+    margin: 0 18.4px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--ffffff-1, #000000);
+}
+
+.tentang .slider-1 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+    width: 40px;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001238 {
+    margin: 0 26.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.tentang .frame-1000001233 {
+    position: absolute;
+    right: 20px;
+    bottom: 28px;
+    width: 105px;
+    height: 106px;
+}
+
+.tentang .forum {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--e-26, #232E26);
+}
+
+.tentang .image-1 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.tentang .image-11 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 280px;
+    height: 206px;
+}
+
+.tentang .arrow-1-stroke-3 {
+    width: 14px;
+    height: 12px;
+}
+
+.tentang .arrow-1-stroke-4 {
+    width: 14px;
+    height: 12px;
+}
+
+.tentang .arrow-1-stroke-5 {
+    width: 14px;
+    height: 12px;
+}
+
+.tentang .ellipse-2 {
+    border-radius: 4px;
+    background: var(--page-background, #E8EAEE);
+    width: 8px;
+    height: 8px;
+}
+
+.tentang .ellipse-3 {
+    border-radius: 4px;
+    background: var(--page-background, #E8EAEE);
+    width: 8px;
+    height: 8px;
+}
+
+.tentang .ellipse-4 {
+    border-radius: 4px;
+    background: var(--secondary-gray, #999FAA);
+    width: 8px;
+    height: 8px;
+}
+
+.tentang .image-12 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.tentang .frame-10000012131 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.tentang .logo-3 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.tentang .image-13 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.tentang .frame-10000012121 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.tentang .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka-1 {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-1-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-1-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.tentang .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-1 {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.tentang .copyright-2024-naturecare-celerates-1 {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}
+
+.tentang .ellipse-21 {
+    border-radius: 4px;
+    background: #5E5E5E;
+    width: 8px;
+    height: 8px;
+}
+
+.tentang .ellipse-31 {
+    border-radius: 4px;
+    background: #5E5E5E;
+    width: 8px;
+    height: 8px;
+}
+
+.tentang .ellipse-41 {
+    border-radius: 4px;
+    background: var(--ffffff-1, #000000);
+    width: 8px;
+    height: 8px;
+}

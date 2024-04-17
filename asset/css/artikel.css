@@ -1,0 +1,1000 @@
+.artikel {
+    background: #BFDDBF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.artikel .navbar-logo-left {
+    background: #FFFFFF;
+    margin-bottom: 71px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 132.3px 9px 120px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.artikel .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 69px;
+    height: 54px;
+    box-sizing: border-box;
+}
+
+.artikel .navbar-menu {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 539.7px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .button {
+    border-radius: 50px;
+    border: 1px solid #232E26;
+    background: #232E26;
+    padding: 8px 20px;
+    width: 78px;
+    box-sizing: border-box;
+}
+
+.artikel .login {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+}
+
+.artikel .navbar-link {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.artikel .beranda {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.artikel .navbar-link-1 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.artikel .kategori {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.artikel .navbar-link-2 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.artikel .komunitas {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.artikel .navbar-link-3 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.artikel .tentang {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #232E26;
+}
+
+.artikel .frame-10037 {
+    position: relative;
+    width: 1440px;
+    height: 1852px;
+}
+
+.artikel .orang-utan {
+    position: absolute;
+    left: 60.5px;
+    right: 60.5px;
+    bottom: -169px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    box-sizing: border-box;
+}
+
+.artikel .penjual-orang-utan-dihukum-18-bulan-penjara-jaksa-pikir-pikir {
+    border: 1px solid #000000;
+    margin: 0 9px 114px 0;
+    display: inline-block;
+    align-self: center;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 40px;
+    color: #000000;
+}
+
+.artikel .orangutan-01-kal-20201 {
+    border-radius: 12px;
+    background: url('../assets/images/orangutan01Kal20201.jpeg') 50% / cover no-repeat;
+    margin: 6px 20px 35px 0;
+    width: 358px;
+    height: 411px;
+}
+
+.artikel .poppins-39-px-regular {
+    margin-right: 12.6px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+
+.artikel .jakarta-pengadilan-negeri-pn-langsa-menjatuhkan-hukuman-18-bulan-penjara-kepada-nanta-agustia-31-karena-memperdagangkan-orang-utan-pongo-abelii-atas-putusan-itu-kejaksaan-tinggi-kejati-aceh-menyatakan-jaksa-penuntut-umum-jpu-belum-bersikap-atau-masih-pikir-pikir-terkait-vonis-itu-jpu-sampai-saat-kini-masih-pikir-pikir-atau-belum-menyatakan-sikap-apakah-menerima-atau-banding-terhadap-putusan-majelis {
+    margin: 0 16.2px 0 1px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+
+.jakarta-pengadilan-negeri-pn-langsa-menjatuhkan-hukuman-18-bulan-penjara-kepada-nanta-agustia-31-karena-memperdagangkan-orang-utan-pongo-abelii-atas-putusan-itu-kejaksaan-tinggi-kejati-aceh-menyatakan-jaksa-penuntut-umum-jpu-belum-bersikap-atau-masih-pikir-pikir-terkait-vonis-itu-jpu-sampai-saat-kini-masih-pikir-pikir-atau-belum-menyatakan-sikap-apakah-menerima-atau-banding-terhadap-putusan-majelis {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.333;
+}
+
+.jakarta-pengadilan-negeri-pn-langsa-menjatuhkan-hukuman-18-bulan-penjara-kepada-nanta-agustia-31-karena-memperdagangkan-orang-utan-pongo-abelii-atas-putusan-itu-kejaksaan-tinggi-kejati-aceh-menyatakan-jaksa-penuntut-umum-jpu-belum-bersikap-atau-masih-pikir-pikir-terkait-vonis-itu-jpu-sampai-saat-kini-masih-pikir-pikir-atau-belum-menyatakan-sikap-apakah-menerima-atau-banding-terhadap-putusan-majelis-sub26 {
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 1.333;
+}
+
+.jakarta-pengadilan-negeri-pn-langsa-menjatuhkan-hukuman-18-bulan-penjara-kepada-nanta-agustia-31-karena-memperdagangkan-orang-utan-pongo-abelii-atas-putusan-itu-kejaksaan-tinggi-kejati-aceh-menyatakan-jaksa-penuntut-umum-jpu-belum-bersikap-atau-masih-pikir-pikir-terkait-vonis-itu-jpu-sampai-saat-kini-masih-pikir-pikir-atau-belum-menyatakan-sikap-apakah-menerima-atau-banding-terhadap-putusan-majelis-sub29 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.333;
+}
+
+.artikel .oleh-bill-laurance {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 25px;
+    color: #787A7C;
+}
+
+.artikel .rectangle-4404 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: url('../assets/images/rectangle4404.png');
+    width: 423px;
+    height: 389px;
+}
+
+.artikel .publikasi-170980636165-e-99319-b-51-aa-1 {
+    border-radius: 12px;
+    background: url('../assets/images/publikasi170980636165E99319B51Aa2.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 26px;
+    top: 268px;
+    width: 146px;
+    height: 100px;
+}
+
+.artikel .publikasi-170980636165-e-99319-b-51-aa-2 {
+    border-radius: 12px;
+    background: url('../assets/images/publikasi170980636165E99319B51Aa2.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 27px;
+    bottom: 82px;
+    width: 145px;
+    height: 100px;
+}
+
+.artikel .artikel-terkait {
+    margin: 0 0 34px 3.5px;
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 30px;
+    text-decoration-line: underline;
+    line-height: 0.9;
+    color: var(--text, #2A2A2A);
+}
+
+.artikel .container {
+    border-radius: 12px;
+    background: url('../assets/images/image.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 26.5px;
+    top: 116px;
+    width: 145px;
+    height: 100px;
+}
+
+.artikel .pic-11 {
+    border-radius: 12px;
+    background: url('../assets/images/pic11.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 27px;
+    bottom: 245px;
+    width: 145px;
+    height: 100px;
+}
+
+.artikel .nama-lengkap {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #000000;
+}
+
+.artikel .email {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #000000;
+}
+
+.artikel .vector-7 {
+    background: #035C2E;
+    margin: 0 2px 50px 2px;
+    align-self: flex-start;
+    width: 290px;
+    height: 5px;
+}
+
+.artikel .tinggalkan-balasan-disini {
+    margin: 0 1.5px 8px 1.5px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 1.6;
+    color: #000000;
+}
+
+.artikel .berikan-komentarmu {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #000000;
+}
+
+.artikel .rectangle-4431 {
+    border-radius: 12px;
+    position: absolute;
+    left: 14px;
+    top: 88px;
+    width: 385px;
+    height: 342px;
+}
+
+.artikel .konservasi {
+    margin-right: 13.5px;
+    width: 279.9px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.08;
+    color: #000000;
+}
+
+.artikel .kolaborasi {
+    margin: 46px 13.5px 7px 0;
+    display: inline-block;
+    width: 278.7px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.08;
+    color: #000000;
+}
+
+.artikel .komunikasi {
+    margin: 6px 13.5px 0 0;
+    display: inline-block;
+    width: 278.6px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.08;
+    color: #000000;
+}
+
+.artikel .ko {
+    margin: 0 13.5px 1.9px 0;
+    display: inline-block;
+    width: 285.4px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.08;
+    color: #000000;
+}
+
+.artikel .komodo {
+    margin: 2px 13.5px 0 0;
+    display: inline-block;
+    width: 280.9px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.08;
+    color: #000000;
+}
+
+.artikel .komunitas-1 {
+    margin: 6px 13.5px 0 0;
+    display: inline-block;
+    width: 280.7px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.08;
+    color: #000000;
+}
+
+.artikel .frame-21 {
+    border-radius: 11px;
+    background: #BFDDBF;
+    margin: 0 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-end;
+    padding: 10px 0.6px 10px 0;
+    width: 330px;
+    box-sizing: border-box;
+}
+
+.artikel .kirim-komentar {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+
+.artikel .rectangle-4433 {
+    border-radius: 2px;
+    background: #D9D9D9;
+    margin-bottom: 6px;
+    width: 23px;
+    height: 23px;
+}
+
+.artikel .rectangle-44331 {
+    border-radius: 2px;
+    background: #D9D9D9;
+    margin-bottom: 10px;
+    width: 23px;
+    height: 23px;
+}
+
+.artikel .vector {
+    border-radius: 1px;
+    transform: rotate(29.496deg);
+    position: absolute;
+    top: 64.9px;
+    right: 17.5px;
+    width: 30.8px;
+    height: 16.1px;
+}
+
+.artikel .rectangle-44332 {
+    border-radius: 2px;
+    background: #D9D9D9;
+    margin-bottom: 4px;
+    width: 23px;
+    height: 23px;
+}
+
+.artikel .rectangle-44333 {
+    border-radius: 2px;
+    background: #D9D9D9;
+    margin: 44px 20.5px 13px 0;
+    width: 23px;
+    height: 23px;
+}
+
+.artikel .vector-1 {
+    border-radius: 1px;
+    transform: rotate(29.496deg);
+    margin: 0 29px 8px 29px;
+    width: 30.8px;
+    height: 16.1px;
+}
+
+.artikel .rectangle-44334 {
+    border-radius: 2px;
+    background: #D9D9D9;
+    margin-bottom: 10px;
+    width: 23px;
+    height: 23px;
+}
+
+.artikel .vector-2 {
+    border-radius: 1px;
+    transform: rotate(29.496deg);
+    position: absolute;
+    top: 12.9px;
+    right: 17.5px;
+    width: 30.8px;
+    height: 16.1px;
+}
+
+.artikel .rectangle-4425 {
+    border-radius: 8px;
+    background: var(--f-2-f-4-f-81, #DEDEDE);
+    margin: 6px 0 52px 0;
+    width: 3px;
+    height: 80px;
+}
+
+.artikel .rectangle-4451 {
+    border-radius: 8px;
+    background: var(--f-2-f-4-f-81, #DEDEDE);
+    width: 3px;
+    height: 80px;
+}
+
+.artikel .iconssearch-24-px {
+    margin-top: 9.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 23.3px;
+    height: 19.3px;
+    box-sizing: border-box;
+}
+
+.artikel .menguak-potensi-sapat-hawung-ada-spesies-baru-dan-indikasi-keberadaan-badak-baca-selengkapnya {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.833;
+    color: var(--text, #2A2A2A);
+}
+
+.menguak-potensi-sapat-hawung-ada-spesies-baru-dan-indikasi-keberadaan-badak-baca-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #797979;
+}
+
+.menguak-potensi-sapat-hawung-ada-spesies-baru-dan-indikasi-keberadaan-badak-baca-selengkapnya-sub28 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.artikel .pemerintah-indonesia-dan-amerika-umumkan-debt-swap-untuk-konservasi-hutan-di-kalimantan-baca-selengkapnya {
+    position: relative;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.833;
+    color: var(--text, #2A2A2A);
+}
+
+.pemerintah-indonesia-dan-amerika-umumkan-debt-swap-untuk-konservasi-hutan-di-kalimantan-baca-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #797979;
+}
+
+.pemerintah-indonesia-dan-amerika-umumkan-debt-swap-untuk-konservasi-hutan-di-kalimantan-baca-selengkapnya-sub28 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.artikel .upaya-konservasi-hutan-gambut-dan-satwa-liar-di-kalimantan-kuliah-umum-oleh-dr-mark-harrison-baca-selengkapnya {
+    position: relative;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.833;
+    color: var(--text, #2A2A2A);
+}
+
+.upaya-konservasi-hutan-gambut-dan-satwa-liar-di-kalimantan-kuliah-umum-oleh-dr-mark-harrison-baca-selengkapnya {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #797979;
+}
+
+.upaya-konservasi-hutan-gambut-dan-satwa-liar-di-kalimantan-kuliah-umum-oleh-dr-mark-harrison-baca-selengkapnya-sub28 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.artikel .upaya-konservasi-hutan-gambut-dan-satwa-liar-di-kalimantan-kuliah-umum-oleh-dr-mark-harrison-baca-selengkapnya-1 {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.833;
+    color: var(--text, #2A2A2A);
+}
+
+.upaya-konservasi-hutan-gambut-dan-satwa-liar-di-kalimantan-kuliah-umum-oleh-dr-mark-harrison-baca-selengkapnya-1 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #797979;
+}
+
+.upaya-konservasi-hutan-gambut-dan-satwa-liar-di-kalimantan-kuliah-umum-oleh-dr-mark-harrison-baca-selengkapnya-1-sub28 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+}
+
+.artikel .icon {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+    background: var(--e-26, #232E26);
+    margin: 0 6.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 15.3px 13.3px 20.4px 10.6px;
+    width: 77px;
+    height: 74px;
+    box-sizing: border-box;
+}
+
+.artikel .vector-3 {
+    width: 53.1px;
+    height: 38.3px;
+}
+
+.artikel .footer {
+    background: var(--e-261, #232E26);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: -604px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 53.7px 43px 65px;
+    box-sizing: border-box;
+}
+
+.artikel .container {
+    border-radius: 12px;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 28px 12.5px 65px 14px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .container-1 {
+    position: relative;
+    margin: 0 12.5px 35px 12.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-end;
+    width: 338.7px;
+    box-sizing: border-box;
+}
+
+.artikel .container-2 {
+    position: relative;
+    margin: 0 4.3px 36px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 317.3px;
+    box-sizing: border-box;
+}
+
+.artikel .container-3 {
+    border-radius: 15px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    margin-top: 1px;
+    padding: 21px 23px 15px 23px;
+    width: 441px;
+    box-sizing: border-box;
+}
+
+.artikel .container-4 {
+    position: relative;
+    margin: 0 4.2px 38px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 317.2px;
+    box-sizing: border-box;
+}
+
+.artikel .container-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.artikel .container-6 {
+    border-radius: 12px;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 17px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 35px 40px 48px 37px;
+    box-sizing: border-box;
+}
+
+.artikel .container-7 {
+    border-radius: 12px;
+    border: 1px solid #B9C7C7;
+    position: relative;
+    margin: 0 11.5px 28px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 21px 37.5px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .container-8 {
+    display: flex;
+    flex-direction: row;
+    width: 46.5px;
+    box-sizing: border-box;
+}
+
+.artikel .container-9 {
+    border-radius: 12px;
+    border: 1px solid #B9C7C7;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px 0 10.1px 22.6px;
+    width: 385px;
+    box-sizing: border-box;
+}
+
+.artikel .container-10 {
+    position: relative;
+    margin-right: 2.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 315.1px;
+    box-sizing: border-box;
+}
+
+.artikel .container-11 {
+    border-radius: 12px;
+    border: 1px solid #B9C7C7;
+    position: relative;
+    margin: 0 11.5px 0.9px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 15px 29.1px 43px 29.1px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .container-12 {
+    border-radius: 15px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 18px;
+    padding: 22px 14.5px 89px 14.5px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .container-13 {
+    position: relative;
+    margin-right: 3.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 316.4px;
+    box-sizing: border-box;
+}
+
+.artikel .container-14 {
+    margin: 0 0.5px 19px 2px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .container-15 {
+    border-radius: 12px;
+    background: #FFFFFF;
+    position: relative;
+    margin-left: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 24px 40px 14px;
+    width: 423px;
+    box-sizing: border-box;
+}
+
+.artikel .container-16 {
+    margin: 2px 20px 1px 0;
+    display: flex;
+    flex-direction: column;
+    width: 876px;
+    box-sizing: border-box;
+}
+
+.artikel .container-17 {
+    border-radius: 12px;
+    background: #D9D9D9;
+    position: relative;
+    margin-bottom: 13px;
+    padding: 6px 17px 5px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .container-18 {
+    border-radius: 15px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 25.5px 1px 0;
+    padding: 14px 17.1px 22px 17.1px;
+    width: 407px;
+    box-sizing: border-box;
+}
+
+.artikel .container-19 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.artikel .container-20 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .container-21 {
+    border-radius: 12px;
+    border: 1px solid #B9C7C7;
+    position: relative;
+    margin-right: 11.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 18px 37.5px 24px 37.5px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .container-22 {
+    margin-bottom: 22px;
+    display: flex;
+    flex-direction: row;
+    width: 397.5px;
+    box-sizing: border-box;
+}
+
+.artikel .container-23 {
+    border-radius: 12px;
+    border: 1px solid #B9C7C7;
+    position: relative;
+    margin-right: 8.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 22px 0 36px 132.8px;
+    width: 386px;
+    box-sizing: border-box;
+}
+
+.artikel .container-24 {
+    margin-bottom: 54px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.artikel .image-1 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 69px;
+    height: 54px;
+}
+
+.artikel .icon-1 {
+    width: 23.3px;
+    height: 19.3px;
+}
+
+.artikel .frame-1000001213 {
+    margin-bottom: 78px;
+    display: flex;
+    flex-direction: row;
+    width: 1321.3px;
+    box-sizing: border-box;
+}
+
+.artikel .logo-1 {
+    margin: 0 39px 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 157px;
+    height: 114px;
+    box-sizing: border-box;
+}
+
+.artikel .image-11 {
+    background: url('../assets/images/image1.png') 50% / cover no-repeat;
+    width: 157px;
+    height: 114px;
+}
+
+.artikel .frame-1000001212 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1125.3px;
+    box-sizing: border-box;
+}
+
+.artikel .usaha-melestarikan-flaura-dan-fauna-serta-memelihara-ekosistem-hidup-mereka {
+    margin: 0 29px 116px 0;
+    display: inline-block;
+    width: 824px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.artikel .kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.kontak-kerjasama-nature-care-bogor-indonesia-telp-087869696969-email-naturcarelygmail-com-sub5 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+}
+
+.artikel .copyright-2024-naturecare-celerates {
+    margin-right: 19px;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 24px;
+    color: #5E5E5E;
+}
+
+.artikel .container-25 {
+    margin-bottom: 33px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
